@@ -1,7 +1,7 @@
 <img src='https://github.com/gnunez-dev/gnunez-dev/blob/main/readme-github.png' style='width:100%'>
 ### Hi there 👋
 
-- 💻 I currently work as a web developer.
+- 💻 I currently work as a frontend developer.
 - 🤓 I'm currently learning English and deepening knowledge in various JavaScript libraries
 - 🔍 I'm looking foward to work in front end proyects to be able to gain more experience in the field.
 - 📫 How to reach me: gnunez.dev@gmail.com
