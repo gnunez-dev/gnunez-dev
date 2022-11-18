@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/cover-github.jpg' style='width:100%'>
+<img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/cover-github.png' style='width:100%'>
 ### Hi there 👋
 
 - 💻 I'm currently working as a Senior React Front-end Developer and Tech Lead.
