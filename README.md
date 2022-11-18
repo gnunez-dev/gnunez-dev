@@ -1,9 +1,9 @@
-<img src='https://github.com/gnunez-dev/gnunez-dev/blob/main/readme-github.png' style='width:100%'>
+<img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/cover-github.jpg' style='width:100%'>
 ### Hi there 👋
 
-- 💻 I currently work as a frontend developer.
-- 🤓 I'm currently learning English and deepening knowledge in various JavaScript libraries
-- 🔍 I'm looking foward to work in front end proyects to be able to gain more experience in the field.
+- 💻 I'm currently working as a Senior React Front-end Developer and Tech Lead.
+- 🤓 I'm also deepening knowledge in various JavaScript libraries
+- 🔍 Interested in looking foward to work in front-end projects to be able to gain more experience in the field.
 - 📫 How to reach me: gnunez.dev@gmail.com
 
   
