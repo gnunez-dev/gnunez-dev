@@ -1,7 +1,7 @@
 <img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/cover-github.png' style='width:100%'>
 ### Hi there 👋
 
-- 💻 I'm currently working as a Senior React Front-end Developer and Tech Lead.
+- 💻 I'm currently working as a Senior ReactJS Front-end Developer.
 - 🤓 I'm also deepening knowledge in various JavaScript libraries
 - 🔍 Interested in looking foward to work in front-end projects to be able to gain more experience in the field.
 - 📫 How to reach me: gnunez.dev@gmail.com
