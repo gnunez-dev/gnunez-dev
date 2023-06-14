@@ -6,7 +6,9 @@
 - 🔍 Interested in looking forward to work in front-end projects to be able to gain more experience in the field.
 - 📫 How to reach me: gnunez.dev@gmail.com
 
-  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnunez-dev&layout=compact)
+
+
 <!--
 - ⚡ I've been doing some challenges in codewars, you can check them out here:
 <a href="https://www.codewars.com/users/gnunez-dev" target='_blank' rel="noopener noreferrer"><img src='https://www.codewars.com/users/gnunez-dev/badges/small'></a>
