@@ -6,7 +6,7 @@
 - 🔍 Interested in looking forward to work in front-end projects to be able to gain more experience in the field.
 - 📫 How to reach me: gnunez.dev@gmail.com
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnunez-dev&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnunez-dev&layout=compact&langs_count=8)
 
 
 <!--
