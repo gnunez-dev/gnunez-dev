@@ -2,11 +2,11 @@
 ### Hi there 👋
 
 - 💻 I'm currently working as a Senior ReactJS Front-end Developer.
-- 🤓 I'm also deepening knowledge in various JavaScript libraries
+- 🤓 I'm also deepening knowledge in various JavaScript libraries and also C++, WebAssembly, CMake, and Rust.
 - 🔍 Interested in looking forward to work in front-end projects to be able to gain more experience in the field.
 - 📫 How to reach me: gnunez.dev@gmail.com
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnunez-dev&layout=compact&langs_count=8)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnunez-dev&layout=compact&langs_count=10)
 
 
 <!--
