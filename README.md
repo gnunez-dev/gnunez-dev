@@ -1,5 +1,5 @@
 <head>
-    <meta name="robots" content="noindex"
+    <meta name="robots" content="noindex" />
 </head>
 <body>
  <img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/cover-github.png' style='width:100%'>
