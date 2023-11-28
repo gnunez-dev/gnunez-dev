@@ -2,14 +2,17 @@
     <meta name="robots" content="noindex" />
 </head>
 <body>
- <img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/cover-github.png' style='width:100%'>
+    <img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/cover-github_gn.png' style='width:100%'>
+    <br/>
  ### Hi there 👋
  
  - 💻 I'm currently working as a Senior ReactJS Front-end Developer.
  - 🤓 I'm also deepening knowledge in various JavaScript libraries, C++, WebAssembly, CMake, and Rust.
  - 🔍 Interested in looking forward to work in front-end projects to be able to gain more experience in the field.
  - 📫 How to reach me: gnunez.dev@gmail.com
- 
+
+ <br/> <br/>
+     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnunez-dev&layout=compact&langs_count=10)
  
  
