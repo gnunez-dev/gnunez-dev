@@ -2,14 +2,15 @@
     <meta name="robots" content="noindex" />
 </head>
 <body>
-    <!-- <img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/cover-github_gn.png' style='width:100%' -->
+    <img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/cover-github.jpg' style='width:100%' >
     <br/>
  ### Hi there 👋
  
  - 💻 I'm currently working as a Senior ReactJS Front-end Developer.
  - 🤓 I'm continuously improving my skills in JavaScript, TypeScript, PHP, C++, Node.js, Next.js, databases, and cloud technologies.
- <!-- - 🔍 Interested in looking forward to work in front-end projects to be able to gain more experience in the field.
  - 📫 How to reach me: gnunez.dev@gmail.com
+ <!-- - 🔍 Interested in looking forward to work in front-end projects to be able to gain more experience in the field.
+ 
 
  <br/> <br/> -->
      
