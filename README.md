@@ -7,7 +7,7 @@
  ### Hi there 👋
  
  - 💻 I'm currently working as a Senior ReactJS Front-end Developer.
- - 🤓 I'm also deepening knowledge in various JavaScript libraries, Typescript, PHP, C++...
+ - 🤓 I'm continuously improving my skills in JavaScript, TypeScript, PHP, C++, Node.js, Next.js, databases, and cloud technologies.
  <!-- - 🔍 Interested in looking forward to work in front-end projects to be able to gain more experience in the field.
  - 📫 How to reach me: gnunez.dev@gmail.com
 
