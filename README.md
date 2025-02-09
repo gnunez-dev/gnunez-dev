@@ -2,7 +2,7 @@
     <meta name="robots" content="noindex" />
 </head>
 <body>
-    <img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/cover-github.jpg' style='width:100%' >
+    <img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/github-cover.jpg' style='width:100%' >
     <br/>
  Hi there 👋
  
