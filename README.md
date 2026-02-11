@@ -2,15 +2,33 @@
     <meta name="robots" content="noindex" />
 </head>
 <body>
-    <img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/github-cover.jpg' style='width:100%' >
-    <br/>
+    
  Hi there 👋
  
- - 💻 I'm currently working as a Senior ReactJS Front-end Developer.
- - 🤓 I'm continuously improving my skills in JavaScript, TypeScript, PHP, C++, Node.js, Next.js, databases, and cloud technologies.
- - 📫 How to reach me: gnunez.dev@gmail.com
+<p>
+  Software Engineer building <strong>backend systems in Python</strong> and
+  <strong>frontend applications in React</strong> for production SaaS products.
+</p>
+
+<p>
+  I focus on <strong>API-driven backends</strong>, <strong>data modeling</strong>, and
+  <strong>scalable systems</strong>, and I’m particularly interested in
+  <strong>AI-powered features</strong> and how intelligent systems can improve real-world
+  products and workflows.
+</p>
+
+<p>
+  <strong>Backend:</strong> Python (FastAPI, Django, Flask), REST, GraphQL, PostgreSQL,
+  SQLAlchemy, Docker<br />
+  <strong>Frontend:</strong> React, Next.js, TypeScript
+</p>
+
+<p>
+  📫 Reach me at: <strong>gnunez.dev@gmail.com</strong>
+</p>
  <!-- - 🔍 Interested in looking forward to work in front-end projects to be able to gain more experience in the field.
- 
+ <img src='https://raw.githubusercontent.com/gnunez-dev/gnunez-dev/main/github-cover.jpg' style='width:100%' >
+    <br/>
 
  <br/> <br/> -->
      
